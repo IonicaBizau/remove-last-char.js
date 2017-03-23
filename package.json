@@ -1,6 +1,6 @@
 {
   "name": "remove-last-char",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Removes the last character from a string.",
   "main": "lib/index.js",
   "directories": {
