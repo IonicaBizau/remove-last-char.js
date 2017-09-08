@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Removes the last character from a given string.
 
 #### Params
+
 - **String** `input`: The input string.
 
 #### Return
